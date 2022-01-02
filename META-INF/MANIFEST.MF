@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 2.2.3
+
+Name: res/drawable/bg_image.jpg
+SHA-256-Digest: tjD/l7hkdseID/fiMoTyb+fJnLkpr9Wb3qgqMB4KuEw=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: SzD9opEpf+mzqXnF2ied0fP7qaY9NIoAY6lCVU31/V0=
+
+Name: res/raw/anim_gif.gif
+SHA-256-Digest: 71AijLCELEf48IzLHHpYvX2Y5cwVCJpxbjaxrZeleBU=
+
+Name: resources.arsc
+SHA-256-Digest: vP/wtXWevZ8lesrgaUnF5S4hRrxG+h2DDqva+1rMKwI=
+
+Name: res/xml/wallpaper.xml
+SHA-256-Digest: XzPMc2xGKu2OhbFd695JLNNPZI/LLSowg7NASip0V6k=
+
+Name: classes.dex
+SHA-256-Digest: OFCKtwmEIZjieH6l53/EvgvBgOk763fgZz9UjlAoWSU=
+
+Name: res/drawable/icon.jpg
+SHA-256-Digest: tjD/l7hkdseID/fiMoTyb+fJnLkpr9Wb3qgqMB4KuEw=
+
