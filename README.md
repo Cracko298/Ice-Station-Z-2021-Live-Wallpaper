@@ -1,5 +1,5 @@
 # Ice-Station-Z-2021-Wallpaper
-A custom wallpaper for android. Check releases for the .apk file.
+A custom Ice Station Z 2021 wallpaper for android. Check releases for the .apk file.
 
 ![Screenshot_20220102-143454_One_UI_Home](https://user-images.githubusercontent.com/78656905/147887815-2abfebe3-d700-45da-9bdf-e60fae31616f.jpg)
 
